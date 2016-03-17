@@ -6,6 +6,8 @@
 // @version      0.6.3
 // @description  One click copy rid, cik. Copy last data. Create portal-level-datasource. Flush data. Delete portal.
 // @author       Calvin
+// @updateURL    https://raw.githubusercontent.com/dews/portalRight/master/portalRight.user.js
+// @downloadURL  https://raw.githubusercontent.com/dews/portalRight/master/portalRight.user.js
 // @match        https://*.com/manage/data
 // @match        https://*.com/manage/devices
 // @grant        GM_xmlhttpRequest
